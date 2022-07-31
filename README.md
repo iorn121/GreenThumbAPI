@@ -1,4 +1,5 @@
 sankou: https://zenn.dev/uedayou/articles/22252000441999
+ER図: https://lucid.app/lucidchart/802107df-4278-482d-9182-48c17674ea17/edit?view_items=WKCDAiC0iqsd&invitationId=inv_cee50442-667b-47d7-ac77-67ab08e26d8e#
 
 # Name（リポジトリ/プロジェクト/OSS などの名前）
 
